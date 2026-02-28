@@ -1,0 +1,5 @@
+{
+  "name": "PDF Quiz Extractor",
+  "description": "Extract questions, options, answers, and explanations from PDF files using Gemini AI with support for batch processing and multiple API keys.",
+  "requestFramePermissions": []
+}
